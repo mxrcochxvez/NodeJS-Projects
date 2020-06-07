@@ -11,3 +11,5 @@ A small application I built that manipulates the Node JS process object.
 
 `timers.js` - You can run this file to see the progress in percentages of my project running a timeout of three seconds.
 
+`core.js` - In this file I am using object destructuring to use some neat Node Js built in functionalities.
+

@@ -1,6 +1,6 @@
 # Node Js Learning
 
-A small application I built that manipulates the Node JS process object.
+Small applications I've built that uses Core Node JS.
 
 
 ## Files included
@@ -15,3 +15,4 @@ A small application I built that manipulates the Node JS process object.
 
 `ask.js` - In this file I create a better interface for asking a question and accepting a response using asynchronous JS.
 
+`importingModules.js and myModule.js` - In this file I learned a little about how requiring a nodejs module works.
